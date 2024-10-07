@@ -1,0 +1,90 @@
+/* Name: Daivik Desai, Student Number:9032891 */
+
+body{
+    width:1200px;
+    margin:auto;
+    font:16px Arial, sans-serif;
+}
+
+header, footer{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    background-color: #4169E1;
+    clear: both;
+}
+
+h1, h2{
+    color: orange;
+    font-variant: small-caps;
+}
+
+section p{
+    width:75%;
+    padding:20px;
+}
+
+main section {
+    margin-left: 17px;
+}
+
+footer p{
+    font-size: 0.9em;
+    color: rgb(3, 3, 3);
+}
+
+main{
+    float:left;
+    width:66.67%;
+}
+
+
+aside {
+    width: 30%;
+    float: right;
+    background-color: #4169E1;
+    height:950px;
+    border: 1px solid black;
+    margin-right: 20px;
+    
+}
+.mainimg{
+    border: 3px solid black; 
+}
+
+figure img{
+    border: 3px solid black;
+}
+
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.2em;
+}
+ul {
+    list-style-type: none;
+    line-height: 1.5;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(48, 51, 54);
+}
+
+aside a:hover {
+    color: red;
+}
+
+li a:hover {
+    color: red;
+}
+
+
